@@ -1,0 +1,12 @@
+body{
+    background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,0,0,1) 20%, rgba(255,0,0,1) 35%, rgba(255,0,0,1) 76%, rgba(255,255,255,1) 100%);
+    text-align: center;
+font-face { font-family: EdoSz; src: url('edosz.ttf'); } 
+ @font-face { font-family: EdoSz; font-weight: bold; src: url('edosz.ttf');}
+}
+
+h1 {
+outline: 5px white
+
+}

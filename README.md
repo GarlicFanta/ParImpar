@@ -1,1 +1,1 @@
-# ParImpar
+# PAR_OU_IMPAR
